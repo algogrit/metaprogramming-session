@@ -1,3 +1,5 @@
 http://www.slideshare.net/danwrong/metaprogramming-javascript
 
 http://fingernailsinoatmeal.com/post/292301859/metaprogramming-ruby-vs-javascript
+
+http://techbehindtech.com/2010/09/28/clojure-macros-simplified/
