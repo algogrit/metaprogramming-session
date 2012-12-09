@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.3.2)
+    launchy (2.1.2)
+      addressable (~> 2.3)
+    mdpress (0.0.12)
+      launchy
+      redcarpet
+      trollop
+    redcarpet (2.2.2)
+    trollop (2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mdpress
